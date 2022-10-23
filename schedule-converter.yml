@@ -1,0 +1,16 @@
+---
+slug: schedule-converter
+info:
+  titles:
+    - title: schedule-converter
+      lang: it
+    - title: schedule-converter
+      lang: en
+  img: /img/clock.png
+  descriptions:
+    - description: Genera un file iCalendar (.ics) a partire dal formato testuale dell'Orario delle lezioni. Possibilità di importare su Google Calendar
+      lang: it
+    - description: Generate an iCalendar (.ics) file from the text format of the lesson timetable. Ability to import to Google Calendar
+      lang: en
+  link: https://bebora.github.io/polimi-schedule-js/
+  redirect: true
