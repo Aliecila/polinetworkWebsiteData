@@ -1,0 +1,15 @@
+---
+slug: notes-and-materials
+info:
+  titles:
+    - title: materiali-e-appunti
+      lang: it
+    - title: notes-and-materials
+      lang: en
+  img: /img/materials.png
+  descriptions:
+    - description: La repository di PoliNetwork con materiali e appunti forniti dagli studenti
+      lang: it
+    - description: PoliNetwork's repository of crowdsourced notes and materials
+  link: https://polinetwork.org/it/materials/
+  redirect: true

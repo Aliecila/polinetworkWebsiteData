@@ -1,0 +1,16 @@
+---
+slug: exam-distribution-tool
+info:
+  titles:
+    - title: strumento-distribuzione-esami
+      lang: it
+    - title: exam-distribution-tool
+      lang: en
+  img: /img/time-management.png
+  descriptions:
+    - description: Programma Windows per organizzare al meglio i tuoi esami
+      lang: it
+    - description: Windows program to better organize your exams
+      lang: en
+  link: https://github.com/PoliNetworkOrg/ExamDistributionTool
+  redirect: true
