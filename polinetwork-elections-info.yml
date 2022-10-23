@@ -1,0 +1,16 @@
+---
+slug: polinetwork-elections-info
+info:
+  titles:
+    - title: polinetwork-info-elezioni
+      lang: it
+    - title: polinetwork-elections-info
+      lang: en
+  img: /img/election.png
+  descriptions:
+    - description: Sito informativo riguardo le elezioni studentesche al Politecnico di Milano
+      lang: it
+    - description: Informative website regarding student elections at Politecnico di Milano
+      lang: en
+  link: https://polinetworkelezioni.github.io
+  redirect: true

@@ -1,0 +1,16 @@
+---
+slug: polinetwork-events
+info:
+  titles:
+    - title: eventi-polinetwork
+      lang: it
+    - title: polinetwork-events
+      lang: en
+  img: /img/party.png
+  descriptions:
+    - description: Sito per gli eventi organizzati da PoliNetwork
+      lang: it
+    - description: Website for events organized by PoliNetwork
+      lang: en
+  link: https://polinetworkevents.github.io
+  redirect: true
