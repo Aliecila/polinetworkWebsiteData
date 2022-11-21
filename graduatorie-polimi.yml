@@ -1,0 +1,16 @@
+---
+slug: graduatorie-polimi
+info:
+  titles:
+    - title: Graduatorie Polimi
+      lang: it
+    - title: Polimi Rankings
+      lang: en
+  img: /img/ranking.png
+  descriptions:
+    - description: Il progetto di questo stesso sito
+      lang: it
+    - description: Website that hosts all rankings the Politecnico publishes, even those now deleted from the official website.
+      lang: en
+  link: https://polinetwork.org/graduatorie/
+  redirect: true

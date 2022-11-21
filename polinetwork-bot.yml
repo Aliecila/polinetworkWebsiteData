@@ -1,0 +1,16 @@
+---
+slug: polinetwork-bot
+info:
+  titles:
+    - title: "@PoliNetworkBot"
+      lang: it
+    - title: exam-distribution-tool
+      lang: en
+  img: /img/19.jpg
+  descriptions:
+    - description: Il bot telegram usato per moderare i gruppi
+      lang: it
+    - description: The telegram bot used for our groups' moderation
+      lang: en
+  link: https://github.com/PoliNetwork/PoliNetworkBot_CSharp
+  redirect: true
