@@ -55,3 +55,11 @@ courses:
         language: it
       - title: Chemical
         language: en
+    - icon: fas fa-hard-hat
+    ficon: fas fa-drafting-compass
+    link: https://gitlab.com/polinetwork/edile
+    titles:
+      - title: Edile
+        language: it
+      - title: Construction
+        language: en
